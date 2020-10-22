@@ -6,7 +6,7 @@
   <img alt="Lotus" title="Lotus" src="./public/assets/ecoleta.gif" />
 </h1>
 
-<p align="center">Aplicação eb para cadastro de pontes de coleta para itens recicláveis</p>
+<p align="center">Aplicação Web para cadastro de pontes de coleta para itens recicláveis</p>
 
 ---
 ## Tecnologias
